@@ -1,3 +1,21 @@
+Exercises for Data Science from Scratch
+=======================================
+
+_This repository is a work in progress and the exercises are not complete for all chapters._
+
+This repository contains exercises for each chapter of Data Science from Scratch, 2nd Edition by Joel Grus. The exercises were written by me, Benjamin Jack, and I have no affiliation with Joel Grus or O'Reilly. Exercises for each chapter are presented as Jupyter notebooks, which is sure to annoy Joel Grus who famously hates Jupyter notebooks. But I think notebooks are great teaching tools, so I'm using them here. 
+
+## Launching notebooks
+
+Each chapter will have a corresponding notebook with notes and exercises. All notebooks can be found in the `notebooks` folder. For the relative imports to work correctly, make sure to launch Jupyter notebooks from the root directory.
+
+```
+cd data-science-from-scratch  # navigate to root directory of this repo
+jupyter notebook
+```
+
+Below is the README from the original data-science-from-scratch repository, written by Joel Grus.
+
 Data Science from Scratch
 =========================
 
