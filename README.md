@@ -23,6 +23,7 @@ Each chapter will have a corresponding notebook with notes and exercises. All no
 
 ```
 cd data-science-from-scratch  # navigate to root directory of this repo
+conda activate ds-from-scratch  # make sure correct environment is active
 jupyter notebook
 ```
 

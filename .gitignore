@@ -1,3 +1,6 @@
 __pycache__
 *.png
 
+# notebook junk
+notebooks/.ipynb_checkpoints/
+
